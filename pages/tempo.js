@@ -18,7 +18,7 @@ export function getStarticProps() {
     const staticDateString = staticDate.toGMTString();
 
     return {
-        propos: {
+        props: {
             staticDateString
         }
     }
